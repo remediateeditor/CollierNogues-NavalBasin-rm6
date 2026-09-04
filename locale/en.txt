@@ -1,0 +1,86 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+QuadHotspotPanoramaOverlayTextImage_8282B1DB_9FE6_0FB6_41DD_7E78B09D638F.text =  \
+Would you like to see?
+HotspotPanoramaOverlayTextImage_F1FC0493_B5B0_E456_41E0_CE6B1D251E9A.text = (THE END for now, click the drone to go back)
+HotspotPanoramaOverlayTextImage_17824F53_6BB3_A4D6_41D4_2CE485F2CFB9.text = About this poem: \
+Sembawang Park encompasses a large portion of what was once Her Majesty’s Naval Base Singapore. The park is bordered on one side by fences blocking from view a remaining portion of the former base, which now hosts the U.S. Navy Logistics Group Command for the Western Pacific (COMLOGWESTPAC) and the Navy Region Center Singapore (NRCS). 
+HotspotPanoramaOverlayTextImage_126FAB73_5553_ACD5_41C4_095B15543372.text = How to read this poem:  \
+In VR, train the dot at the center of your vision on the text for a few seconds to reveal the next line of the poem. In 2D, touch or click on the text. To start over, reload the page.
+HotspotPanoramaOverlayTextImage_EA791D1D_6BD3_A452_41D4_D0DD3AEC1826.text = It has been previously occupied by, in reverse chronological order, New Zealand Force South East Asia (1974-1989), ANZUK (the tripartite force composed of Australia, New Zealand, and the UK, 1971-1974), and the British Royal Navy (1938-1971).  \
+ \
+The park’s colonial-era mansion, Beaulieu House, predates the Royal Navy Base and is now a private restaurant. 
+QuadHotspotPanoramaOverlayTextImage_25851B28_54D0_AC72_41CF_D5F9EBE359D5.text = No shade on the playground  \
+but what the ship makes for itself,
+HotspotPanoramaOverlayTextImage_08DFC32A_5550_9C76_41CD_4D84F3560209.text = Sembawang Naval Basin, Singapore. Photo: Collier Nogues, 2023.
+HotspotPanoramaOverlayTextImage_FE439F12_B5D1_A456_41BF_4B06E1CC3204.text = Sembawang Naval Basin, Singapore. Photo: Juzvids, 2021.
+HotspotPanoramaOverlayTextImage_F1B96457_B5D7_A4DE_41E3_2EFF99D823CF.text = Sembawang Naval Basin, Singapore. Photo: YQ Chan, 2023.
+QuadHotspotPanoramaOverlayTextImage_11B0F02F_6BF0_BC4E_41CE_3901DD2D4CA9.text = So is each lamp, and each tree.
+HotspotPanoramaOverlayTextImage_93A91C1C_D770_A452_41E4_2575698F5220.text = The Navy ships are out of port
+HotspotPanoramaOverlayTextImage_953C3DF5_ED51_A7D2_41D0_901543C8148A.text = The colonial house behind the hill \
+is not public property
+HotspotPanoramaOverlayTextImage_9476DC66_ED50_E4FE_41E0_B1D325D72D97.text = The fence shielding the base from view is the color of the sea.
+HotspotPanoramaOverlayTextImage_3EA27D8D_54EF_A432_41B4_2DCCE01C5D95.text = The sand's too hot  \
+for playing
+HotspotPanoramaOverlayTextImage_C6F401ED_DF62_A299_41E1_54EB5316F730.text = This poem was first published by re•mediate, issue 6, August 2026.
+HotspotPanoramaOverlayTextImage_FD71F95C_6BD1_ACD2_41C1_0E7579E93368.text = This space occupied by the U.S. Navy is a small node in an expansive network. COMLOGWESTPAC coordinates logistics and refueling for U.S. Navy ships of the 7th Fleet across more than 51 million square miles, including at military and commercial repair facilities in Guåhan (Guam), Singapore, Malaysia, and Indonesia. The U.S. portion of Sembawang’s dockyard space, as well as the housing occupied by U.S. Navy families, has never been occupied by Singaporeans. 
+HotspotPanoramaOverlayTextImage_896C419B_9FEE_0FB6_41C2_92C04E0149AD.text = To learn more about this park, click here. 
+QuadHotspotPanoramaOverlayTextImage_EC698FD4_5553_63D2_41B6_63A8FAA26F03.text = What's behind it?  \
+
+HotspotPanoramaOverlayTextImage_95468B91_ED50_AC52_41E3_31F87CB7CC36.text = What's behind it?  \
+Would you like to see?
+HotspotPanoramaOverlayTextImage_0925DA84_54F1_AC32_41D2_5B68E9581791.text = at the kind of war \
+that can be won.
+QuadHotspotPanoramaOverlayTextImage_1F7F5C3F_6BB0_A44E_41D0_ABCEE68260D9.text = but each bench is.
+HotspotPanoramaOverlayTextImage_95C79A2C_D773_AC72_41D8_A4DB3E9DE242.text = but one sort of battleship is always here.
+QuadHotspotPanoramaOverlayTextImage_3D957F49_54D0_E432_41C8_F0A22BE292C0.text = no children  \
+in the shade or sun.
+HotspotPanoramaOverlayTextImage_90AD2799_D770_E452_41E2_251873A62AFB.text = our bench is here
+
+## Media
+
+### Image
+imlevel_1298C81F_6BF0_AC4E_41C0_2DA04A73FFF4.url = media/panorama_922253DA_ED6F_E3D6_41D2_C4A10463B302_HS_dh9z6p2k_en.png
+imlevel_012887DD_6BB3_A3D2_41B8_1DB001A23E2D.url = media/panorama_922253DA_ED6F_E3D6_41D2_C4A10463B302_HS_dkrehxif_en.png
+imlevel_EAB29F46_AB50_E43E_41E2_C03DB3CAA39B.url = media/panorama_922253DA_ED6F_E3D6_41D2_C4A10463B302_HS_ohfno2y9_en.png
+imlevel_0A8D8B42_5557_AC36_418D_434B020FE209.url = media/panorama_922253DA_ED6F_E3D6_41D2_C4A10463B302_HS_yys4oynq_en.png
+imlevel_EAA97D4C_AB50_E432_41E5_A10BCECD1E4F.url = media/panorama_93D26C9C_ED6F_E452_41CE_129790B51EA6_HS_1lx5gz0m_en.png
+imlevel_012E870A_6BB3_A436_41B2_F2AB2F55C7A5.url = media/panorama_93D26C9C_ED6F_E452_41CE_129790B51EA6_HS_2r9cfrz1_en.png
+imlevel_C34EE549_555F_6432_41C3_D412A3479A22.url = media/panorama_93D26C9C_ED6F_E452_41CE_129790B51EA6_HS_d2wh3ho9_en.png
+imlevel_8A18BA86_9E22_7D9E_41CB_AF1C97731618.url = media/panorama_93D26C9C_ED6F_E452_41CE_129790B51EA6_HS_j1mhmqeo_en.png
+imlevel_010177C8_6BF3_E432_41D1_898391B83EC7.url = media/panorama_93D26C9C_ED6F_E452_41CE_129790B51EA6_HS_klpx4d6o_en.png
+imlevel_C18006F1_DF62_AE89_419C_2FDE9D7EE30C.url = media/panorama_93D26C9C_ED6F_E452_41CE_129790B51EA6_HS_mzfftbfc_en.png
+imlevel_EAAF5E5E_AB50_E4CE_4193_1FCFE12F52D7.url = media/panorama_93D26C9C_ED6F_E452_41CE_129790B51EA6_HS_qv0y1yqk_en.png
+imlevel_8A1E5B5C_9E22_7CB2_41DA_011035857C7E.url = media/panorama_93D26C9C_ED6F_E452_41CE_129790B51EA6_HS_t8p7kpdn_en.png
+imlevel_0A8EBA8C_5557_AC32_41C6_EFEEB03E0A77.url = media/panorama_93D26C9C_ED6F_E452_41CE_129790B51EA6_HS_tz0gmj3r_en.png
+imlevel_EAAAFA58_AB50_ECD2_41D5_62A0F990C23F.url = media/panorama_93D26C9C_ED6F_E452_41CE_129790B51EA6_HS_u1l71764_en.png
+imlevel_10373E3C_6BBF_A452_41DB_F1FCC41CCB05.url = media/panorama_9584AB0F_D7DF_EC4E_41C4_79EE091F151A_HS_3p39ijwi_en.png
+imlevel_F16A9A19_B5B1_AC52_41E2_CE1ACD773A6F.url = media/panorama_9584AB0F_D7DF_EC4E_41C4_79EE091F151A_HS_49fmn2mh_en.png
+imlevel_2FC8AD8D_6BBF_A432_41D0_2F5ECB1A87D7.url = media/panorama_9584AB0F_D7DF_EC4E_41C4_79EE091F151A_HS_4nropr1s_en.png
+imlevel_85411640_9E22_1492_41CC_EE18BB372082.url = media/panorama_9584AB0F_D7DF_EC4E_41C4_79EE091F151A_HS_4pbr1rvq_en.png
+imlevel_11F3BEC7_5550_A43E_41B8_2F23CDCD09EF.url = media/panorama_9584AB0F_D7DF_EC4E_41C4_79EE091F151A_HS_crfakf1n_en.png
+imlevel_10354EAA_6BBF_A476_41BE_44003AFAC696.url = media/panorama_9584AB0F_D7DF_EC4E_41C4_79EE091F151A_HS_ege589in_en.png
+imlevel_8A1D6C2B_9E22_74EB_41C3_C2950B3AE258.url = media/panorama_9584AB0F_D7DF_EC4E_41C4_79EE091F151A_HS_knb9iknv_en.png
+imlevel_8A2B04D1_9E62_15B2_41E3_46CEEE577DD8.url = media/panorama_9584AB0F_D7DF_EC4E_41C4_79EE091F151A_HS_oriwli1i_en.png
+imlevel_10345F86_6BBF_A43E_41B0_00E935C46294.url = media/panorama_9584AB0F_D7DF_EC4E_41C4_79EE091F151A_HS_tqtg1dx8_en.png
+imlevel_8D95110F_9E22_0CAE_41D0_91039D914A33.url = media/panorama_9584AB0F_D7DF_EC4E_41C4_79EE091F151A_HS_w9qye82m_en.png
+
+### Title
+panorama_9584AB0F_D7DF_EC4E_41C4_79EE091F151A.label = R0010073 Sembawang 360 battleship park
+panorama_93D26C9C_ED6F_E452_41CE_129790B51EA6.label = Sembawang Park waterside between pier and wharves with fishing man
+panorama_922253DA_ED6F_E3D6_41D2_C4A10463B302.label = Sembawang drone Juzvids Jan 2022
+
+## Popup
+
+### Body
+htmlText_865C8686_9E22_759E_41CA_6C2CF8D9EE0E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:2.0370370370370368vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vh;">Singapore's Sembawang Park encompasses a large portion of what was once Her Majesty’s Naval Base Singapore. The park is bordered on one side by fences blocking from view a remaining portion of the former base, which now hosts the U.S. Navy Logistics Group Command for the Western Pacific (COMLOGWESTPAC) and the Navy Region Center Singapore (NRCS). </SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0370370370370368vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vh;">This space occupied by the U.S. Navy is a small but important node in an expansive network. COMLOGWESTPAC coordinates logistics, maintenance, and refueling for U.S. Navy ships of the 7th Fleet across more than 51 million square miles, including at military and commercial repair facilities in Guåhan (Guam), Singapore, Malaysia, and Indonesia. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0370370370370368vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vh;">COMLOGWESTPAC moved to Sembawang in 1992, from its original home in Subic Bay, Philippines, after the Philippines Senate voted against renewing the U.S. base agreement there. Where most US forces moved to Okinawa or Guåhan, COMLOGWESTPAC landed here, in facilities originally developed by the British Royal Navy (1938-1971), then occupied successively by ANZUK (the tripartite force composed of Australia, New Zealand, and the UK, 1971-1974) and New Zealand Force South East Asia (1974-1989), who vacated it three years before the U.S. was suddenly in want of a forward logistics site in the Pacific. The U.S. portion of Sembawang’s dockyard, as well as the housing occupied by U.S. Navy families, has never been under solely Singaporean sovereignty.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0370370370370368vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vh;">The park’s colonial-era mansion, Beaulieu House, predates the Royal Navy Base and is now a private restaurant.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0370370370370368vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vh;">Thank you to </SPAN><SPAN STYLE="font-size:2.04vh;"><I>re•mediate</I></SPAN><SPAN STYLE="font-size:2.04vh;">, which first published this poem in </SPAN><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://remediatelitmag.xyz/issue6/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0066ff;font-size:2.04vh;">Issue 6, August 2026</SPAN></A></SPAN><SPAN STYLE="font-size:2.04vh;">. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0370370370370368vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vh;">This work was supported by the Hong Kong Research Grants Council's Early Career Grant 2024-25 (project no. 24612523).</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV></BODY></HTML></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Naval Basin • Collier Nogues
